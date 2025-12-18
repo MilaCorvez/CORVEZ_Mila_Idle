@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 68a7b41c97ee5c844b21022805b16b04
+guid: 04ce8c876f428e04ab617d63cb9c161c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4483049885668819599
-    second: follower_0
-  - first:
-      213: 4842099717701745959
-    second: follower_1
+      213: 4605472776672407370
+    second: coon-and-friendsKy_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: follower_0
+      name: coon-and-friendsKy_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 30
-        width: 362
-        height: 463
+        x: 3
+        y: 13
+        width: 285
+        height: 226
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8245a96e1ef63e30800000000000000
-      internalID: 4483049885668819599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: follower_1
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 29
-        width: 208
-        height: 181
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72db1a8e908923340800000000000000
-      internalID: 4842099717701745959
+      spriteID: a4f6a4ce61de9ef30800000000000000
+      internalID: 4605472776672407370
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      follower_0: 4483049885668819599
-      follower_1: 4842099717701745959
+      coon-and-friendsKy_0: 4605472776672407370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
